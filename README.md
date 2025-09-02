@@ -2,8 +2,7 @@
 
 <h2>💁‍♀️ About Me</h2>
 <p>
-I'm a passionate learner focused on technology and personal growth. Currently exploring AWS, Python, and Data Analysis through the ALX Pathway. My goal is to become financially independent, contribute to meaningful tech projects, and share knowledge with others. I thrive on solving problems, learning new skills, and turning ideas into actionable results.
-</p>
+Hi, I’m Hawa Umwali, founder of SheRises-a platform dedicated to empowering women and amplifying their voices. My passion for gender equality (GCGO: SDG 5) drives my work, as I believe women should have equal opportunities to thrive in education, entrepreneurship, and leadership. Currently, I am specializing in Data Analytics to measure and strengthen the impact of empowerment initiatives. My goal is to become a Social Impact Data Analyst and program leader, helping organizations design solutions that truly change lives. Beyond work, I enjoy creating motivational content that inspires women to rise above challenges. You can connect with me on LinkedIn [www.linkedin.com/in/hawa-anathalie-552460343].</p>
 
 <h2>👩‍💻 ALX Projects</h2>
 
